@@ -1,0 +1,40 @@
+c:\users\flor\documents\visual studio 2012\Projects\TP01\TP01\bin\Debug\TP01.exe.config
+c:\users\flor\documents\visual studio 2012\Projects\TP01\TP01\obj\Debug\TP01.csprojResolveAssemblyReference.cache
+c:\users\flor\documents\visual studio 2012\Projects\TP01\TP01\obj\Debug\TP01.Calculadora.resources
+c:\users\flor\documents\visual studio 2012\Projects\TP01\TP01\obj\Debug\TP01.Properties.Resources.resources
+c:\users\flor\documents\visual studio 2012\Projects\TP01\TP01\obj\Debug\TP01.csproj.GenerateResource.Cache
+c:\users\flor\documents\visual studio 2012\Projects\TP01\TP01\bin\Debug\TP01.exe
+c:\users\flor\documents\visual studio 2012\Projects\TP01\TP01\bin\Debug\TP01.pdb
+c:\users\flor\documents\visual studio 2012\Projects\TP01\TP01\obj\Debug\TP01.exe
+c:\users\flor\documents\visual studio 2012\Projects\TP01\TP01\obj\Debug\TP01.pdb
+c:\users\flor\documents\visual studio 2012\Projects\TP01\TP01\obj\Debug\TP01.Calculadora_Form.resources
+F:\Programación Laboratorio 2\TP01\TP01\bin\Debug\TP01.exe.config
+F:\Programación Laboratorio 2\TP01\TP01\obj\Debug\TP01.exe
+F:\Programación Laboratorio 2\TP01\TP01\obj\Debug\TP01.pdb
+F:\Programación Laboratorio 2\TP01\TP01\bin\Debug\TP01.exe
+F:\Programación Laboratorio 2\TP01\TP01\bin\Debug\TP01.pdb
+F:\Programación Laboratorio 2\TP01\TP01\obj\Debug\TP01.csprojResolveAssemblyReference.cache
+F:\Programación Laboratorio 2\TP01\TP01\obj\Debug\TP01.Calculadora_Form.resources
+F:\Programación Laboratorio 2\TP01\TP01\obj\Debug\TP01.Calculadora.resources
+F:\Programación Laboratorio 2\TP01\TP01\obj\Debug\TP01.Properties.Resources.resources
+F:\Programación Laboratorio 2\TP01\TP01\obj\Debug\TP01.csproj.GenerateResource.Cache
+C:\Users\Flor\Documents\Trabajos Prácticos\TP01\TP01\bin\Debug\TP01.exe.config
+C:\Users\Flor\Documents\Trabajos Prácticos\TP01\TP01\obj\Debug\TP01.exe
+C:\Users\Flor\Documents\Trabajos Prácticos\TP01\TP01\obj\Debug\TP01.pdb
+C:\Users\Flor\Documents\Trabajos Prácticos\TP01\TP01\bin\Debug\TP01.exe
+C:\Users\Flor\Documents\Trabajos Prácticos\TP01\TP01\bin\Debug\TP01.pdb
+C:\Users\Flor\Documents\Trabajos Prácticos\TP01\TP01\obj\Debug\TP01.csprojResolveAssemblyReference.cache
+C:\Users\Flor\Documents\Trabajos Prácticos\TP01\TP01\obj\Debug\TP01.Calculadora_Form.resources
+C:\Users\Flor\Documents\Trabajos Prácticos\TP01\TP01\obj\Debug\TP01.Calculadora.resources
+C:\Users\Flor\Documents\Trabajos Prácticos\TP01\TP01\obj\Debug\TP01.Properties.Resources.resources
+C:\Users\Flor\Documents\Trabajos Prácticos\TP01\TP01\obj\Debug\TP01.csproj.GenerateResource.Cache
+C:\Users\ffiamingo\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP01\TP01\bin\Debug\TP01.exe.config
+C:\Users\ffiamingo\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP01\TP01\obj\Debug\TP01.exe
+C:\Users\ffiamingo\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP01\TP01\obj\Debug\TP01.pdb
+C:\Users\ffiamingo\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP01\TP01\bin\Debug\TP01.exe
+C:\Users\ffiamingo\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP01\TP01\bin\Debug\TP01.pdb
+C:\Users\ffiamingo\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP01\TP01\obj\Debug\TP01.csprojResolveAssemblyReference.cache
+C:\Users\ffiamingo\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP01\TP01\obj\Debug\TP01.Calculadora_Form.resources
+C:\Users\ffiamingo\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP01\TP01\obj\Debug\TP01.Calculadora.resources
+C:\Users\ffiamingo\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP01\TP01\obj\Debug\TP01.Properties.Resources.resources
+C:\Users\ffiamingo\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP01\TP01\obj\Debug\TP01.csproj.GenerateResource.Cache
