@@ -1,5 +1,0 @@
-D:\Mis Documentos\Visual Studio 2012\Projects\Fiamingo.Florencia.2D\Fiamingo.Florencia.2D\obj\Debug\Fiamingo.Florencia.2D.csprojResolveAssemblyReference.cache
-D:\Mis Documentos\Visual Studio 2012\Projects\Fiamingo.Florencia.2D\Fiamingo.Florencia.2D\bin\Debug\Fiamingo.Florencia.2D.dll
-D:\Mis Documentos\Visual Studio 2012\Projects\Fiamingo.Florencia.2D\Fiamingo.Florencia.2D\bin\Debug\Fiamingo.Florencia.2D.pdb
-D:\Mis Documentos\Visual Studio 2012\Projects\Fiamingo.Florencia.2D\Fiamingo.Florencia.2D\obj\Debug\Fiamingo.Florencia.2D.dll
-D:\Mis Documentos\Visual Studio 2012\Projects\Fiamingo.Florencia.2D\Fiamingo.Florencia.2D\obj\Debug\Fiamingo.Florencia.2D.pdb
