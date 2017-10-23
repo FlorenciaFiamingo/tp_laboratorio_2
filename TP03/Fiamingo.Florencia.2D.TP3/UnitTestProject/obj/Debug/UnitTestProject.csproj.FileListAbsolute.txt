@@ -1,0 +1,30 @@
+F:\Fiamingo.Florencia.2D.TP3\UnitTestProject\bin\Debug\UnitTestProject.dll
+F:\Fiamingo.Florencia.2D.TP3\UnitTestProject\bin\Debug\UnitTestProject.pdb
+F:\Fiamingo.Florencia.2D.TP3\UnitTestProject\bin\Debug\Archivos.dll
+F:\Fiamingo.Florencia.2D.TP3\UnitTestProject\bin\Debug\Clases Abstractas.dll
+F:\Fiamingo.Florencia.2D.TP3\UnitTestProject\bin\Debug\Clases Instanciables.dll
+F:\Fiamingo.Florencia.2D.TP3\UnitTestProject\bin\Debug\Excepciones.dll
+F:\Fiamingo.Florencia.2D.TP3\UnitTestProject\bin\Debug\Main.exe
+F:\Fiamingo.Florencia.2D.TP3\UnitTestProject\bin\Debug\Archivos.pdb
+F:\Fiamingo.Florencia.2D.TP3\UnitTestProject\bin\Debug\Clases Abstractas.pdb
+F:\Fiamingo.Florencia.2D.TP3\UnitTestProject\bin\Debug\Clases Instanciables.pdb
+F:\Fiamingo.Florencia.2D.TP3\UnitTestProject\bin\Debug\Excepciones.pdb
+F:\Fiamingo.Florencia.2D.TP3\UnitTestProject\bin\Debug\Main.pdb
+F:\Fiamingo.Florencia.2D.TP3\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+F:\Fiamingo.Florencia.2D.TP3\UnitTestProject\obj\Debug\UnitTestProject.dll
+F:\Fiamingo.Florencia.2D.TP3\UnitTestProject\obj\Debug\UnitTestProject.pdb
+F:\Programación Laboratorio 2\Recuperatorios TPS\TP03\Fiamingo.Florencia.2D.TP3\UnitTestProject\bin\Debug\UnitTestProject.dll
+F:\Programación Laboratorio 2\Recuperatorios TPS\TP03\Fiamingo.Florencia.2D.TP3\UnitTestProject\bin\Debug\UnitTestProject.pdb
+F:\Programación Laboratorio 2\Recuperatorios TPS\TP03\Fiamingo.Florencia.2D.TP3\UnitTestProject\bin\Debug\Archivos.dll
+F:\Programación Laboratorio 2\Recuperatorios TPS\TP03\Fiamingo.Florencia.2D.TP3\UnitTestProject\bin\Debug\Clases Abstractas.dll
+F:\Programación Laboratorio 2\Recuperatorios TPS\TP03\Fiamingo.Florencia.2D.TP3\UnitTestProject\bin\Debug\Clases Instanciables.dll
+F:\Programación Laboratorio 2\Recuperatorios TPS\TP03\Fiamingo.Florencia.2D.TP3\UnitTestProject\bin\Debug\Excepciones.dll
+F:\Programación Laboratorio 2\Recuperatorios TPS\TP03\Fiamingo.Florencia.2D.TP3\UnitTestProject\bin\Debug\Main.exe
+F:\Programación Laboratorio 2\Recuperatorios TPS\TP03\Fiamingo.Florencia.2D.TP3\UnitTestProject\bin\Debug\Archivos.pdb
+F:\Programación Laboratorio 2\Recuperatorios TPS\TP03\Fiamingo.Florencia.2D.TP3\UnitTestProject\bin\Debug\Clases Abstractas.pdb
+F:\Programación Laboratorio 2\Recuperatorios TPS\TP03\Fiamingo.Florencia.2D.TP3\UnitTestProject\bin\Debug\Clases Instanciables.pdb
+F:\Programación Laboratorio 2\Recuperatorios TPS\TP03\Fiamingo.Florencia.2D.TP3\UnitTestProject\bin\Debug\Excepciones.pdb
+F:\Programación Laboratorio 2\Recuperatorios TPS\TP03\Fiamingo.Florencia.2D.TP3\UnitTestProject\bin\Debug\Main.pdb
+F:\Programación Laboratorio 2\Recuperatorios TPS\TP03\Fiamingo.Florencia.2D.TP3\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+F:\Programación Laboratorio 2\Recuperatorios TPS\TP03\Fiamingo.Florencia.2D.TP3\UnitTestProject\obj\Debug\UnitTestProject.dll
+F:\Programación Laboratorio 2\Recuperatorios TPS\TP03\Fiamingo.Florencia.2D.TP3\UnitTestProject\obj\Debug\UnitTestProject.pdb

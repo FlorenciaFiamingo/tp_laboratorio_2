@@ -1,0 +1,21 @@
+C:\Users\Flor\Desktop\Fiamingo.Florencia.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\Flor\Desktop\Fiamingo.Florencia.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\Flor\Desktop\Fiamingo.Florencia.2D.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\Flor\Desktop\Fiamingo.Florencia.2D.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\Flor\Desktop\Fiamingo.Florencia.2D.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\Flor\Desktop\Fiamingo.Florencia.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\Flor\Desktop\Fiamingo.Florencia.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+F:\Fiamingo.Florencia.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+F:\Fiamingo.Florencia.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+F:\Fiamingo.Florencia.2D.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+F:\Fiamingo.Florencia.2D.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+F:\Fiamingo.Florencia.2D.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+F:\Fiamingo.Florencia.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+F:\Fiamingo.Florencia.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+C:\Users\ffiamingo\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP03\Fiamingo.Florencia.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\ffiamingo\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP03\Fiamingo.Florencia.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\ffiamingo\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP03\Fiamingo.Florencia.2D.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\ffiamingo\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP03\Fiamingo.Florencia.2D.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\ffiamingo\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP03\Fiamingo.Florencia.2D.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\ffiamingo\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP03\Fiamingo.Florencia.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\ffiamingo\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP03\Fiamingo.Florencia.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb

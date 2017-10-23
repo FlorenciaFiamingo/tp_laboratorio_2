@@ -1,0 +1,18 @@
+Clase: Laboratorio
+Profesor: Nombre: Roberto
+Apellido: Juarez
+Dni: 32234456
+Nacionalidad: Argentino
+
+Alumnos: 
+Nombre: Joaquin
+Apellido: Suarez
+Dni: 91122456
+Nacionalidad: Extranjero
+
+Legajo: 7
+
+Toma clase de: Laboratorio
+
+Estado de cuenta: AlDia
+
